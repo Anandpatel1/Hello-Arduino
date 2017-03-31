@@ -1,2 +1,2 @@
 # Hello-Arduino
-Just for the practice purpose
+I am learning Github 
